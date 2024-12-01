@@ -1,0 +1,9 @@
+//from here and before the bootstrap import (@use)
+//you can replace all variables, to customize bootstrap variables and customize your works
+$primary:red;
+
+
+//import of the original bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+
